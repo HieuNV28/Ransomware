@@ -1,0 +1,10 @@
+Ransomware co chuc nang ma hoa tat ca cac file bang he mat AES
+
+Chay Ransomware voi cac argument khac nhau
+
+- Co argument se chay ma hoa	
+	./Ransomware Encrypt 
+- Khong co argument se chi chay lenh giai ma
+	./Ransomware
+
+Ransomware se them lenh vao /.bashrc, moi khi bat terminal moi se chay ./Ransomware va doi tien chuoc
